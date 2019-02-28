@@ -1,2 +1,3 @@
 # TdPiED
-Tecniques de Poduccií i Edició Digital
+Tècniques d'Edició i Producció
+## Pràctica 1. Figures geomètriques
