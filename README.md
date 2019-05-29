@@ -6,4 +6,6 @@ Tècniques d'Edició i Producció
 [Bodegó](practica002_bodego.zip)
 ## Pràctica 3. Totem
 [Totem](practica003_totem.zip)
+## Pràctica 4. Funny Farm
+[Isidro Ferrer](practica004_funnyfarm.zip)
 
