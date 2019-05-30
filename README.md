@@ -8,4 +8,5 @@ Tècniques d'Edició i Producció
 [Totem](practica003_totem.zip)
 ## Pràctica 4. Funny Farm
 [Isidro Ferrer](practica004_funnyfarm.zip)
+[video](https://www.youtube.com/watch?v=nBmMDgqbmpE)
 
