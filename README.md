@@ -7,6 +7,6 @@ Tècniques d'Edició i Producció
 ## Pràctica 3. Totem
 [Totem](practica003_totem.zip)
 ## Pràctica 4. Funny Farm
-[FunnyFarm](foto_funny.zip)
+[FunnyFarm_jpg](foto_funny.zip)
 [video](https://drive.google.com/open?id=188VqMPFHWvJk_4bBYJM1BoJjnjbaiUwA)
 
